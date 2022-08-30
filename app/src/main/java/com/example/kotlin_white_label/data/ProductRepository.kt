@@ -2,8 +2,11 @@ package com.example.kotlin_white_label.data
 
 import android.net.Uri
 import com.example.kotlin_white_label.domain.model.Product
+import javax.inject.Inject
 
-class ProductRepository(private val dataSource: ProductDataSource) {
+class ProductRepository @Inject constructor(
+    private val dataSource: ProductDataSource
+) {
 
     suspend fun getProducts(): List<Product> = dataSource.getProducts()
 
