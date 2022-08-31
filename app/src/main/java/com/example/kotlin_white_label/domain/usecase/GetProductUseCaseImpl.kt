@@ -8,5 +8,8 @@ class GetProductUseCaseImpl @Inject constructor(
     private val productRepository: ProductRepository
 ) : GetProductsUseCase {
 
-    override suspend fun invoke(): List<Product> = productRepository.getProducts()
+    override suspend fun invoke(): List<Product> {
+        return productRepository.getProducts()
+    }
+
 }

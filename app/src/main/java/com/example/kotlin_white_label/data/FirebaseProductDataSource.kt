@@ -36,8 +36,8 @@ class FirebaseProductDataSource @Inject constructor(
                 continuation.resumeWith(Result.success(products))
             }
 
-            productsReference.get().addOnFailureListener { exeception ->
-                continuation.resumeWith(Result.failure(exeception))
+            productsReference.get().addOnFailureListener { exception ->
+                continuation.resumeWith(Result.failure(exception))
             }
         }
     }
@@ -69,8 +69,8 @@ class FirebaseProductDataSource @Inject constructor(
                 .set(product)
                 .addOnSuccessListener {
                     continuation.resumeWith(Result.success(product))
-                }.addOnFailureListener { exeception ->
-                    continuation.resumeWith(Result.failure(exeception))
+                }.addOnFailureListener { exception ->
+                    continuation.resumeWith(Result.failure(exception))
 
                 }
         }

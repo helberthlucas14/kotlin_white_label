@@ -1,4 +1,4 @@
-package com.example.kotlin_white_label.ui.products.addproduct
+package com.example.kotlin_white_label.ui.addproduct
 
 import android.net.Uri
 import android.os.Bundle
