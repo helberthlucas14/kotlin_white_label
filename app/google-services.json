@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "824849894682",
+    "project_id": "white-label-dce01",
+    "storage_bucket": "white-label-dce01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824849894682:android:16b38a5f595d0ecc6c30a3",
+        "android_client_info": {
+          "package_name": "br.com.helberthlucastec.kotlin_white_label.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKffUBgnr9UobAbVxAzIetajSCd5_SO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824849894682:android:4d6cd9a6b0c678696c30a3",
+        "android_client_info": {
+          "package_name": "br.com.helberthlucastec.kotlin_white_label.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKffUBgnr9UobAbVxAzIetajSCd5_SO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824849894682:android:d65c3693fb416f6b6c30a3",
+        "android_client_info": {
+          "package_name": "br.com.helberthlucastec.kotlin_white_label.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKffUBgnr9UobAbVxAzIetajSCd5_SO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824849894682:android:622b0ee66e2e4bc46c30a3",
+        "android_client_info": {
+          "package_name": "br.com.helberthlucastec.kotlin_white_label.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKffUBgnr9UobAbVxAzIetajSCd5_SO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824849894682-7v8kftuep88d4thl39kjbshj0o6icuc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
